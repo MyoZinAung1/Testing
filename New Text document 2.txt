@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page 2</title>
+</head>
+<body>
+ <h1>Welcome to အလင်းတန်း(ရွှေကူ)</h1>
+ <p>ကော်ရည်လောင်းခြင်း(ပလတ်စတစ်)နှင့် မင်္ဂလာဆောင်ဖိတ်စာများကိုလည်း လူကြီးမင်းတို့ စိတ်တိုင်းကျလုပ်ဆောင်ပေးပါသည်။</p>
+ <a href="Page 1.html">go to Page 1</a>
+</body>
+</html>

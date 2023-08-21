@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page 1</title>
+</head>
+<body>
+ <h1>အလင်းတန်း(ရွှေကူ)</h1>
+ <p>ရရှိနိုင်သော ၀န်ဆောင်မှုများ</p>
+<div style="background-color: brown">
+<p style="color: white">လိုင်စင်ပုံ အမြန်ရသည်။</p>
+</div>
+<div style="background-color: blue">
+<p style="color: White">မိတ္တူ/Printရသည်။</p>
+</div>
+<div style="background-color: red">
+<p style="color: white">Computer(Destop,Laptopများကို Windowတင်သည်။</p>
+</div>
+<div style="background-color: gray">
+<p style="color: White">AutoCad,Photoshopရသည်။</p>
+</div>
+<div style="background-color: green">
+<p style="color: White">Softwareများ ကူးပေးသည်။</p>
+</div>
+<div style="background-color: purple">
+<p style="color: White">DVD,VCDခွေများ ကူးပေးသည်။</p>
+</div>
+<p>Example-</p><br />
+<div>
+<img src=123.JPG" alt="Registration Card Copy">
+ </div>
+<form>
+<label for="name">Name:</label>
+<input type="text" id="name"><br />
+<label for="email">Email:</label>
+<input type="email" id="email"> 
+<input type="submit" value="Submit">
+</form>
+<a href="Page 2.html">go to Page 2</a>
+</body>
+</html>
